@@ -72,12 +72,3 @@ Jika Anda ingin aplikasi tetap berjalan tanpa henti (misalnya di server atau hos
 ## Kontribusi
 
 Jika Anda ingin berkontribusi pada proyek ini, silakan buka *issue* atau kirimkan *pull request*.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [Nama Lisensi] - lihat file [LICENSE.md](LICENSE.md) untuk detail lebih lanjut.
-```
-
-Catatan:
-- Gantilah `<url-repository>` dan `<nama-folder-repository>` dengan URL repositori dan nama folder yang sesuai.
-- Sesuaikan bagian lisensi sesuai dengan lisensi yang digunakan proyek Anda.
