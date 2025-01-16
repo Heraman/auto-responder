@@ -1,0 +1,17 @@
+{
+    "name": "BOT-AUTO-ORDER",
+    "version": "1.0.0",
+    "description": "Simple whatsapp bot with multi device.",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "Ronzz YT",
+    "license": "ISC",
+    "dependencies": {
+        "@whiskeysockets/baileys": "^6.7.9"
+        "qrcode": "^1.5.0",
+        "qrcode-terminal": "^0.12.0"
+    }
+}
