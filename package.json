@@ -1,5 +1,5 @@
 {
-    "name": "BOT-AUTO-ORDER",
+    "name": "Auto Responder",
     "version": "1.0.0",
     "description": "Simple whatsapp bot with multi device.",
     "main": "main.js",
@@ -7,7 +7,7 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node index.js"
     },
-    "author": "Ronzz YT",
+    "author": "Zilfa Ardiansyah",
     "license": "ISC",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.9"
